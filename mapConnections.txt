@@ -1,0 +1,24 @@
+(Baltimore Penn Station, N Charles St & Art Museum Dr)			7
+(Baltimore Penn Station, Peabody Institute)					5
+(Baltimore Penn Station, The Johns Hopkins Hospital)			10
+(Falls Rd & W Cold Spring Ln, N Charles St & Cold Spring Ln)		6
+(Falls Rd & W Cold Spring Ln, Pratt St & Light St)				22
+(Falls Rd & W Cold Spring Ln, Roland Ave & W 36th St)			6
+(Falls Rd & W Northern Parkway, Falls Rd & W Cold Spring Ln)		5
+(Falls Rd & W Northern Parkway, York Rd & E Northern Pkwy)		9
+(Greenmount Ave & E 33rd St, The Johns Hopkins Hospital)			12
+(Keswick Rd & Wyman Park Dr, Baltimore Penn Station)			6
+(Keswick Rd & Wyman Park Dr, N Charles St & Art Museum Dr)		2
+(N Charles St & Cold Spring Ln, N Charles St & E University Pkwy) 		5
+(N Charles St & Cold Spring Ln, York Rd & E Northern Pkwy)		8
+(N Charles St & E 33rd St, Greenmount Ave & E 33rd St)			3
+(N Charles St & E 33rd St, N Charles St & Art Museum Dr)			1
+(N Charles St & E University Pkwy, N Charles St & E 33rd St)		2
+(Peabody Institute, Pratt St & Light St)					5
+(Pratt St & Light St, The Johns Hopkins Hospital)				8
+(Roland Ave & W 36th St, Keswick Rd & Wyman Park Dr)			4
+(Towson Town Center Mall, York Rd & E Northern Pkwy)			13
+(W University Pkwy & Keswick Rd, Roland Ave & W 36th St)		4
+(W University Pkwy & Keswick Rd, W University Pkwy & San Martin Dr)	2
+(W University Pkwy & San Martin Dr, N Charles St & E University Pkwy)	1
+(York Rd & E Northern Parkway, Greenmount Ave & E 33rd St)		13
